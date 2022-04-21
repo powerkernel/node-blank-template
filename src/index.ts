@@ -4,7 +4,8 @@
  * @copyright Copyright (c) 2021 Power Kernel
  */
 
-
-export {
-
+const print = () => {
+  return "Hello World";
 };
+
+export { print };
